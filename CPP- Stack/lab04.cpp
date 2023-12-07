@@ -3,7 +3,7 @@
 **CS2560-01, Fall 2023
 **Lab Assignment #4
 **
-**Do lab #3, but use a stack!
+**Use a Stack to iterate through a Triangle class which prints attributes of the class.
 */
 
 #include <iostream>
