@@ -13,3 +13,9 @@ Data Collected with my Program:
 
 
 ![image](https://github.com/jethpson/SchoolProjects/assets/152761484/276d2350-8ff0-4a07-bfe8-cfc5ef1bd4c9)
+
+
+
+
+
+Video showing functionality and use:
