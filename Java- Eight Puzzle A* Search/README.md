@@ -9,4 +9,7 @@ randomly generated 8-puzzle instance is about 22 steps.
 
 
 Data Collected with my Program:
+
+
+
 ![image](https://github.com/jethpson/SchoolProjects/assets/152761484/276d2350-8ff0-4a07-bfe8-cfc5ef1bd4c9)
